@@ -6,3 +6,12 @@ This repository stores snapshots and pointers to Brick extensions, tools and oth
 - please include tests, documentation with your contribution to help other users understand how to incorporate your extensions or use your tools
 - please include a LICENSE file describing how your code is licensed
 - (optionally) add a remote repository as a submodule to this repository. We will soon devise a mechanism to keep these remote submodules up to date
+
+
+## Tools
+
+*Links to Brick tools go here*
+
+## Extension
+
+*Links to Brick extensions go here*
